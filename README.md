@@ -184,15 +184,15 @@ Bun
 
 ### Student Dashboard
 
-![Student Dashboard](./Screenshot%202026-09-20%20160422.png)
+<img src="./Screenshot%202026-09-20%20160422.png" alt="Student Dashboard" width="800"/>
 
 ### AI Complaint Analysis
 
-![AI Complaint Analysis](./Screenshot%202026-09-20%20160229.png)
+<img src="./Screenshot%202026-09-20%20160229.png" alt="AI Complaint Analysis" width="800"/>
 
 ### Admin Dashboard
 
-![Admin Dashboard](./Screenshot%202026-09-20%20160600.png)
+<img src="./Screenshot%202026-09-20%20160600.png" alt="Admin Dashboard" width="800"/>
 
 🌟 Benefits
 Easy and centralized issue reporting
