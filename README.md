@@ -179,13 +179,21 @@ Git
 GitHub
 VS Code
 Bun
-📸 Screenshots
-Student Dashboard
-�
-AI Complaint Analysis
-�
-Admin Dashboard
-�
+
+## 📸 Screenshots
+
+### Student Dashboard
+
+![Student Dashboard](./Screenshot%202026-09-20%20160422.png)
+
+### AI Complaint Analysis
+
+![AI Complaint Analysis](./Screenshot%202026-09-20%20160229.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](./Screenshot%202026-09-20%20160600.png)
+
 🌟 Benefits
 Easy and centralized issue reporting
 AI-powered complaint analysis
@@ -195,6 +203,7 @@ Better communication between students and administration
 Data-driven campus insights
 Centralized lost & found management
 Improved student experience
+
 👥 Team
 Team Name: BinaryDuo
 Team Members:
@@ -203,6 +212,7 @@ Nitin Suhag
 🎓 Project
 CampusFlow – AI-Powered Smart Campus Assistant
 Developed as an AI-powered campus innovation project using Google AI Studio, Generative AI, and Prompt Engineering.
+
 🚀 Future Scope
 Future versions of CampusFlow can include:
 Real-time notifications
@@ -214,6 +224,7 @@ Cloud database integration
 Role-based authentication
 Mobile application
 Real-time administration communication
+
 📌 Conclusion
 CampusFlow aims to transform traditional campus issue reporting into a centralized, transparent, and AI-powered digital experience.
 By connecting students, administrators, AI analysis, complaint tracking, and campus insights in one platform, CampusFlow can help create a smarter and more responsive campus environment.
