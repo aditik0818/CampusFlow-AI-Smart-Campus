@@ -138,7 +138,6 @@ The platform provides insights based on:
 - Resolution trends
 
 ---
-
 ## 🔄 Application Workflow
 
 ```text
@@ -159,73 +158,95 @@ Status Updated
 Student Tracks Progress
           ↓
 Resolution & Insights
+```
 
 ---
-🛠️ Technology Stack
-Frontend
-React
-TypeScript
-HTML
-CSS
-JavaScript
-Vite
-AI & Development
-Google AI Studio
-Generative AI
-Prompt Engineering
-AI-assisted Web Development
-Tools
-Git
-GitHub
-VS Code
-Bun
+
+## 🛠️ Technology Stack
+
+### Frontend
+
+- React
+- TypeScript
+- HTML
+- CSS
+- JavaScript
+- Vite
+
+### AI & Development
+
+- Google AI Studio
+- Generative AI
+- Prompt Engineering
+- AI-assisted Web Development
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Bun
+
+---
 
 ## 📸 Screenshots
 
-### Student Dashboard
+Screenshots of the Student Dashboard, AI Complaint Analysis, and Admin Dashboard are available in the repository.
 
-![Student Dashboard](./Student-dashboard.png)
+---
 
-### AI Complaint Analysis
+## 🌟 Benefits
 
-![AI Complaint Analysis](./ai-analysis.png)
+- Easy and centralized issue reporting
+- AI-powered complaint analysis
+- Improved complaint transparency
+- Faster issue management
+- Better communication between students and administration
+- Data-driven campus insights
+- Centralized lost & found management
+- Improved student experience
 
-### Admin Dashboard
+---
 
-![Admin Dashboard](./admin-dashboard.png)
+## 👥 Team
 
-🌟 Benefits
-Easy and centralized issue reporting
-AI-powered complaint analysis
-Improved complaint transparency
-Faster issue management
-Better communication between students and administration
-Data-driven campus insights
-Centralized lost & found management
-Improved student experience
+### Team Name: BinaryDuo
 
-👥 Team
-Team Name: BinaryDuo
-Team Members:
-Aditi Kaushik
-Nitin Suhag
-🎓 Project
-CampusFlow – AI-Powered Smart Campus Assistant
+**Team Members:**
+
+- Aditi Kaushik
+- Nitin Suhag
+
+---
+
+## 🎓 Project
+
+**CampusFlow – AI-Powered Smart Campus Assistant**
+
 Developed as an AI-powered campus innovation project using Google AI Studio, Generative AI, and Prompt Engineering.
 
-🚀 Future Scope
-Future versions of CampusFlow can include:
-Real-time notifications
-AI-based duplicate complaint detection
-Email and push notifications
-Student feedback and rating system
-Advanced AI campus insights
-Cloud database integration
-Role-based authentication
-Mobile application
-Real-time administration communication
+---
 
-📌 Conclusion
+## 🚀 Future Scope
+
+Future versions of CampusFlow can include:
+
+- Real-time notifications
+- AI-based duplicate complaint detection
+- Email and push notifications
+- Student feedback and rating system
+- Advanced AI campus insights
+- Cloud database integration
+- Role-based authentication
+- Mobile application
+- Real-time administration communication
+
+---
+
+## 📌 Conclusion
+
 CampusFlow aims to transform traditional campus issue reporting into a centralized, transparent, and AI-powered digital experience.
+
 By connecting students, administrators, AI analysis, complaint tracking, and campus insights in one platform, CampusFlow can help create a smarter and more responsive campus environment.
+ironment.
 
