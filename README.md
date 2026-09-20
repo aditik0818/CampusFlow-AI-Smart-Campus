@@ -184,15 +184,15 @@ Bun
 
 ### Student Dashboard
 
-![Student Dashboard](https://github.com/aditik0818/CampusFlow-AI-Smart-Campus/blob/main/Screenshot%202026-09-20%20160229.png?raw=true)
+![Student Dashboard](./Student-dashboard.png)
 
 ### AI Complaint Analysis
 
-![AI Complaint Analysis](https://github.com/aditik0818/CampusFlow-AI-Smart-Campus/blob/main/Screenshot%202026-09-20%20160422.png?raw=true)
+![AI Complaint Analysis](./ai-analysis.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](https://github.com/aditik0818/CampusFlow-AI-Smart-Campus/blob/main/Screenshot%202026-09-20%20160600.png?raw=true)
+![Admin Dashboard](./admin-dashboard.png)
 
 🌟 Benefits
 Easy and centralized issue reporting
