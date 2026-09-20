@@ -183,17 +183,13 @@ Bun
 ## 📸 Screenshots
 
 ### Student Dashboard
-
-<img src="./Screenshot%202026-09-20%20160422.png" alt="Student Dashboard" width="800"/>
+![Student Dashboard](./Screenshot%202026-09-20%20160229.png)
 
 ### AI Complaint Analysis
-
-<img src="./Screenshot%202026-09-20%20160229.png" alt="AI Complaint Analysis" width="800"/>
+![AI Complaint Analysis](./Screenshot%202026-09-20%20160422.png)
 
 ### Admin Dashboard
-
-<img src="./Screenshot%202026-09-20%20160600.png" alt="Admin Dashboard" width="800"/>
-
+![Admin Dashboard](./Screenshot%202026-09-20%20160600.png)
 🌟 Benefits
 Easy and centralized issue reporting
 AI-powered complaint analysis
