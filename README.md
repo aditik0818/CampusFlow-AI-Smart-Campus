@@ -1,20 +1,98 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 CampusFlow — AI-Powered Smart Campus Assistant
 
-# Run and deploy your AI Studio app
+CampusFlow is an AI-powered smart campus web application designed to simplify
+the reporting, tracking, and management of everyday campus issues.
 
-This contains everything you need to run your app locally.
+It provides students with a centralized platform to report problems such as
+Wi-Fi failures, infrastructure issues, cleanliness concerns, and lost & found,
+while helping administrators manage and analyze these issues efficiently.
 
-View your app in AI Studio: https://ai.studio/apps/d9f6522e-cca0-4b59-b3bc-06ab69fae070
+---
 
-## Run Locally
+## 💡 Problem Statement
 
-**Prerequisites:**  Node.js
+Students often face difficulties while reporting and tracking everyday campus
+issues. Complaints may be communicated through scattered channels, making it
+difficult to monitor their status and ensure timely resolution.
 
+CampusFlow addresses this problem by bringing issue reporting, AI-assisted
+analysis, tracking, administration, and campus insights into one platform.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## ✨ Key Features
+
+### 🤖 AI-Powered Complaint Analysis
+- Automatically analyzes reported issues
+- Categorizes complaints
+- Identifies issue priority
+- Generates concise summaries
+- Suggests the appropriate department
+
+### 📋 Smart Complaint Tracking
+- Submit and manage complaints
+- Track complaint status
+- View progress through a status timeline
+- Monitor recent and pending issues
+
+### 🗺️ Interactive Campus Map
+- Visual representation of campus locations
+- Identify areas with reported issues
+- Location-based issue monitoring
+
+### 🔎 Lost & Found
+- Report lost or found items
+- Add item descriptions and images
+- AI-assisted matching for possible lost/found items
+
+### 💬 AI Campus Assistant
+- Helps students with campus-related queries
+- Provides guidance for reporting and tracking issues
+
+### 📊 Admin Dashboard
+- Monitor reported issues
+- Filter and manage complaints
+- Update complaint status
+- View analytics and issue trends
+
+### 🔔 Smart Insights & Notifications
+- Important issue updates
+- Priority issue visibility
+- Campus-level insights for better decision making
+
+---
+
+## 🛠️ Technologies Used
+
+- Google AI Studio
+- Generative AI
+- Prompt Engineering
+- HTML
+- CSS
+- JavaScript / TypeScript
+- Vite
+- Bun
+- AI-assisted Web Development
+
+---
+
+## 🔄 Application Workflow
+
+```text
+Student Reports an Issue
+          ↓
+AI Analyzes the Complaint
+          ↓
+Category + Priority + Summary
+          ↓
+Department Recommendation
+          ↓
+Complaint Submitted
+          ↓
+Admin Reviews the Issue
+          ↓
+Status Updated
+          ↓
+Student Tracks Progress
+          ↓
+Resolution & Insights
