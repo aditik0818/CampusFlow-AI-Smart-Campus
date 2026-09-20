@@ -1,0 +1,6 @@
+{
+  "name": "CampusFlow – AI-Powered Smart Campus Assistant",
+  "description": "A modern, interactive AI-powered smart campus platform for student issue reporting, AI classification and duplicate detection, admin complaint resolution, campus map, and lost-and-found matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
