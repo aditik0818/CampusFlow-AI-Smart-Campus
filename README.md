@@ -96,3 +96,16 @@ Status Updated
 Student Tracks Progress
           ↓
 Resolution & Insights
+
+---
+### Student Dashboard
+
+![Student Dashboard](Screenshot%202026-09-20%20160422.png)
+
+### AI Complaint Analysis
+
+![AI Complaint Analysis](Screenshot%202026-09-20%20160429.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](Screenshot%202026-09-20%20160600.png)
